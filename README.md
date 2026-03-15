@@ -12,6 +12,7 @@
   - 开始界面（Press SPACE to Start）  
   - 运行状态  
   - 暂停（SPACE 切换）  
-  - 游戏结束界面（Game Over + Restart）  
+  - 游戏结束界面（Game Over + Restart）
+  - 使用箭头控制蛇的前进方向
 - ✅ 分数随蛇长度增长，速度随分数提升  
-- ✅ 支持最高分本地保存（可扩展）  
+- ✅ 支持最高分本地保存（txt）  
